@@ -27,8 +27,8 @@ This project aims to build an image recognition system using Python, Jupyter Not
 2. **Installation**:
    - Clone this repository:
      ```
-     git clone https://github.com/your-username/image-recognition.git
-     cd image-recognition
+     git clone https://github.com/thishahid/Face-Detection.git
+     cd Face-Detection
      ```
 
 3. **Dependencies**:
@@ -52,7 +52,7 @@ This project aims to build an image recognition system using Python, Jupyter Not
 7. **Usage**:
    - Run the Jupyter Notebook:
      ```
-     jupyter notebook image_recognition.ipynb
+     jupyter notebook Face_Detection.ipynb
      ```
 
 8. **Contributing**:
