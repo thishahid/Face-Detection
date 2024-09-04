@@ -23,6 +23,7 @@ This project aims to build an image recognition system using Python, Jupyter Not
    - Python 3.x installed
    - Jupyter Notebook installed
    - Basic understanding of computer vision concepts
+   - An Activated Conda Environment
 
 2. **Installation**:
    - Clone this repository:
