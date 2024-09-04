@@ -2,9 +2,9 @@
 
 ---
 
-# Image Recognition Project
+# Faec Detection Project
 
-![Project Logo](path/to/your/logo.png) <!-- Optional: Add a logo or banner image -->
+(https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) <!-- Optional: Add a logo or banner image -->
 
 ## Overview
 
@@ -71,8 +71,3 @@ This project aims to build an image recognition system using Python, Jupyter Not
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-(4) Creating Great README Files for Your Python Projects. https://realpython.com/readme-python-project/.
-(5) python-project-template/README.md at master - GitHub. https://github.com/azavea/python-project-template/blob/master/README.md.
-(6) readme-template · GitHub Topics · GitHub. https://github.com/topics/readme-template.
-(7) image-recognition · GitHub Topics · GitHub. https://github.com/topics/image-recognition?l=jupyter+notebook.
